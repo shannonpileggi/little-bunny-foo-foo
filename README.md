@@ -8,7 +8,6 @@ Choice of nursery rhyme inspired by Hadley Wickham:
 
 * [R For Data Science Ch 18 Pipes](https://bookdown.org/roy_schumacher/r4ds/pipes.html)
 
-
 # Verse 1
 
 Little Bunny Foo Foo,
@@ -23,6 +22,7 @@ I don't want to see you,
 Scooping up the field mice
 And bopping them on the head."
 
+"I'll give you two more chances,
 "I'll give you three chances,
 And if you don't behave,
 I'm gonna turn you into a goon!"
