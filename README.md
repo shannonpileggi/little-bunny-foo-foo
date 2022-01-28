@@ -12,8 +12,8 @@ Choice of nursery rhyme inspired by Hadley Wickham:
 
 # Verse 1
 
-Little Bunny Foo Foo,
-Hopping through the forest,
+Little Bunny FOO FOO,
+Hopping through the CRAZY forest,
 Scooping up the field mice,
 And bopping them on the head.
 
