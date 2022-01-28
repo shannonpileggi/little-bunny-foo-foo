@@ -1,5 +1,7 @@
 # little-bunny-foo-foo
 
+by Shannon & Isabella
+
 Exploring ways to resolve merge conflicts
 
 Choice of nursery rhyme inspired by Hadley Wickham:
