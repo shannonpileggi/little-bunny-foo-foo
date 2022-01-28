@@ -27,3 +27,23 @@ And bopping them on the head."
 "I'll give you three chances,
 And if you don't behave,
 I'm gonna turn you into a goon!"
+
+
+# Verse 2
+
+Little Bunny Foo Foo,
+Hopping through the forest,
+Scooping up the field mice,
+And bopping them on the head.
+
+Down came the Good Fairy, and she said,
+
+"Little Bunny Foo Foo,
+I don't want to see you,
+Scooping up the field mice
+And bopping them on the head."
+
+"I'll give you two more chances,
+And if you don't behave,
+I'm gonna turn you into a goon!"
+
